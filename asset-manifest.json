@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravikumarranjan86.github.io/csb-hhcop/static/css/main.06ae7f11.chunk.css",
+    "main.js": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/main.857d333c.chunk.js",
+    "main.js.map": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/main.857d333c.chunk.js.map",
+    "runtime-main.js": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/runtime-main.4a1e12cc.js",
+    "runtime-main.js.map": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/runtime-main.4a1e12cc.js.map",
+    "static/js/2.c0d1d122.chunk.js": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/2.c0d1d122.chunk.js",
+    "static/js/2.c0d1d122.chunk.js.map": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/2.c0d1d122.chunk.js.map",
+    "index.html": "https://ravikumarranjan86.github.io/csb-hhcop/index.html",
+    "static/css/main.06ae7f11.chunk.css.map": "https://ravikumarranjan86.github.io/csb-hhcop/static/css/main.06ae7f11.chunk.css.map",
+    "static/js/2.c0d1d122.chunk.js.LICENSE.txt": "https://ravikumarranjan86.github.io/csb-hhcop/static/js/2.c0d1d122.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a1e12cc.js",
+    "static/js/2.c0d1d122.chunk.js",
+    "static/css/main.06ae7f11.chunk.css",
+    "static/js/main.857d333c.chunk.js"
+  ]
+}
